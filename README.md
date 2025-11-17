@@ -2,7 +2,7 @@
 
 > 🚧 Work in progress 🚧
 
-Cooper is a JavaScript web framework.
+Cooper is a JavaScript web framework designed to work with the web platform.
 
 What sets Cooper apart from other frameworks is that it's built with a collection of guiding principles:
 
@@ -12,6 +12,7 @@ What sets Cooper apart from other frameworks is that it's built with a collectio
   - Newer features may be used with polyfills
   - DOM access
   - Web Workers
+  - Web Components
 
 - It is accessible by default.
 

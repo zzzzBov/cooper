@@ -1,0 +1,22 @@
+{
+  "name": "@zzzzbov/cooper",
+  "version": "0.0.0",
+  "description": "A web framework designed to work with the web platform",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzzzBov/cooper.git"
+  },
+  "keywords": [],
+  "author": "zzzzBov",
+  "license": "UNLICENSED",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/zzzzBov/cooper/issues"
+  },
+  "homepage": "https://github.com/zzzzBov/cooper#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
